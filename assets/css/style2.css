@@ -5,17 +5,17 @@
 */
 body {
     font-family: 'Oswald';
-    font-size: 14px;
+    font-size: 18px;
 }
 
 nav {
     font-family: sans-serif;
-    font-size: 10px;
+    font-size: 18px;
 }
 
 #main {
     width: 900px;
-    margin: 10px auto;
+    margin: 18px auto;
 }
 
 /* 
